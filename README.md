@@ -200,3 +200,5 @@ For issues or questions, please check the code comments in `mini-rl-environment.
 ---
 
 **Built with ❤️ using React and Vite**
+
+**🍅 THIS IS JUST A PROTOTYPE IDEA FOR A MAIN PROJECT 🍅**
