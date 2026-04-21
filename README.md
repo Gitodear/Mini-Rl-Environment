@@ -1,5 +1,3 @@
-LIVE DEMO: [ https://hollow-purple-bedv.vercel.app/ ]
-
 # Mini RL Environment
 
 A lightweight React-based reinforcement learning testing environment for AI agents. This project provides an interactive platform to test and evaluate AI/LLM responses across multiple task categories with automated grading.
